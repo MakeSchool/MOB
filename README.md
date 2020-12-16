@@ -1,7 +1,14 @@
 # ⭐️ MOB Track at [Make School](https://makeschool.com)
 
-Students pursuing the Mobile Concentration learn the theory and application of the full product development process for mobile applications. Beginning with Swift programming language and its core object-oriented programming principles, students then study Apple’s front-end frameworks for creating interactive applications, first creating single page and then multi-page apps. In upper division courses, students will learn to synchronize data in their applications, using the same advanced frameworks used in industry. 
+Students pursuing the Mobile Concentration learn the theory and application of the full product development process for mobile applications. Beginning with Swift programming language and its core object-oriented programming principles, students then study Apple’s front-end frameworks for creating interactive applications, first creating single page and then multi-page apps. In upper division courses, students will learn to synchronize data in their applications, using the same advanced frameworks found in industry. 
 
+## Track Learning Outcomes
+
+- Designing and developing iOS apps.
+- Understanding the structure of mobile apps and identify when to use different UI components to build an app.
+- Describing and applying different software patterns for mobile iOS development.
+- Describing the reach, limitations and challenges involved when working in a mobile environment.
+- Application of problem solving skills to scenarios involving iOS app development.
 
 ## Mobile Courses
 
