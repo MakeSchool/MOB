@@ -5,7 +5,7 @@
 
 1. [**Syllabus Updates**](#syllabus-updates)
 1. [**Plan Improvements**](#)
-   1. [ ] Closures and callbacks
+   1. [x] Closures and callbacks
    1. [ ] Protocols & Delegation
    1. [ ] Communication patterns
    1. [ ] Memory Management Pt. 1
@@ -24,11 +24,11 @@
 
 ## **Syllabus Updates**
 
-- [ ] Update syllabus schedule to be for 13-14 class sessions. Currently at 20 including labs+review days, so would need to combine above 16 lessons into 10-12 lessons.
-- [ ] Update syllabus schedule and `_sidebar.md` to reflect new titles
-- [ ] Update schedule section for appropriate term using provided tables in [Make-School-Courses/Syllabus-Template](https://github.com/Make-School-Courses/Syllabus-Template)
-  - [ ] Change dates
-  - [ ] Update lesson titles
+- [X] Update syllabus schedule to be for 13-14 class sessions. Currently at 20 including labs+review days, so would need to combine above 16 lessons into 10-12 lessons.
+- [X] Update syllabus schedule and `_sidebar.md` to reflect new titles
+- [X] Update schedule section for appropriate term using provided tables in [Make-School-Courses/Syllabus-Template](https://github.com/Make-School-Courses/Syllabus-Template)
+  - [X] Change dates
+  - [X] Update lesson titles
 
 ---
 
@@ -59,8 +59,8 @@
 
 #### CHANGES
 
-- [ ] Add more media! Currently just text and code-blocks, add some other forms of media to create variety
-- [ ] Provide comments in code blocks - even if simple
+- [X] Add more media! Currently just text and code-blocks, add some other forms of media to create variety
+- [X] Provide comments in code blocks - even if simple
 
 ---
 
