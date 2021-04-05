@@ -89,6 +89,7 @@
 #### CHANGES
 
 - [ ] Add more media! Currently just text and code-blocks, add some other forms of media to create variety
+- [X] No longer doing Giphy tutorial
 
 ---
 
@@ -114,10 +115,11 @@
 
 #### CHANGES
 
-- [ ] Add more media! Currently just text and code-blocks, add some other forms of media to create variety
-- [ ] No active learning until halfway through the slides - can we get it in earlier?
-- [ ] add line breaks to codeblocks so scrolling isn't needed
-- [ ] Add small, shorter active learning (coding) activities for notifications/unsubscribe/etc. Can be small challenges, but get them coding with it before Pomodoro
+- [X] Add more media! Currently just text and code-blocks, add some other forms of media to create variety
+- [X] No active learning until halfway through the slides - can we get it in earlier? Edit: Will be kept like this due to the async version needing more TT talk.
+- [X] add line breaks to codeblocks so scrolling isn't needed
+- [X] Add small, shorter active learning (coding) activities for notifications/unsubscribe/etc. Can be small challenges, but get them coding with it before Pomodoro
+- [X] No longer doing Giphy Tutorial
 
 ---
 
