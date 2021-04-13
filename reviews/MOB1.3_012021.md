@@ -5,11 +5,11 @@
 
 1. [**Syllabus Updates**](#syllabus-updates)
 1. [**Plan Improvements**](#)
-   1. [x] Closures and callbacks
-   1. [ ] Protocols & Delegation
-   1. [ ] Communication patterns
-   1. [ ] Memory Management Pt. 1
-   1. [ ] Memory Management Pt. 2
+   1. [X] Closures and callbacks
+   1. [X] Protocols & Delegation
+   1. [X] Communication patterns
+   1. [X] Memory Management Pt. 1
+   1. [X] Memory Management Pt. 2
    1. [ ] JSON in iOS
    1. [ ] Codable Protocol
    1. [ ] Product Hunt Tutorial
@@ -88,7 +88,7 @@
 
 #### CHANGES
 
-- [ ] Add more media! Currently just text and code-blocks, add some other forms of media to create variety
+- [X] Add more media! Currently just text and code-blocks, add some other forms of media to create variety
 - [X] No longer doing Giphy tutorial
 
 ---
@@ -151,6 +151,7 @@
 #### CHANGES
 
 - None fo this one, I think this is solid!
+- Merging Memory Management classes into a single lesson, at least for the async version
 
 ---
 
@@ -181,8 +182,8 @@
 
 #### CHANGES
 
-- [ ] Add more active learning to the first portion of the class (everything before the first Leaky Starship intro). I'd suggest adding code sinppets and then having them guess what the expected output or issue would be
-- [ ] Give them some small replits or similar for practice with `deinit` and reference types prior to Leaky Starship
+- [X] Add more active learning to the first portion of the class (everything before the first Leaky Starship intro). I'd suggest adding code snippets and then having them guess what the expected output or issue would be
+- [X] Give them some small replits or similar for practice with `deinit` and reference types prior to Leaky Starship
 
 ---
 
