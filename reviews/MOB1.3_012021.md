@@ -10,8 +10,8 @@
    1. [X] Communication patterns
    1. [X] Memory Management Pt. 1
    1. [X] Memory Management Pt. 2
-   1. [ ] JSON in iOS
-   1. [ ] Codable Protocol
+   1. [X] JSON in iOS
+   1. [X] Codable Protocol
    1. [ ] Product Hunt Tutorial
    1. [ ] URLSession
    1. [ ] Pokemon assignment
@@ -213,7 +213,8 @@
 
 #### CHANGES
 
-- [ ]
+- [X] Added Repl.it examples
+- [X] Product Hunt Tutorial as After Class Assignment
 
 ---
 
